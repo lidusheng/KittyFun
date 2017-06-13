@@ -9,6 +9,7 @@ import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.VBox;
 
 /**
@@ -20,6 +21,8 @@ public class OneTabController implements Initializable {
 
     @FXML
     private VBox page_main;
+    @FXML
+    private AnchorPane ap;
 
     /**
      * Initializes the controller class.

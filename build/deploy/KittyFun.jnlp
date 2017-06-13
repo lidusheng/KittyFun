@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="KittyFun.jar" size="179541" download="eager" />
+    <jar href="KittyFun.jar" size="4404314" download="eager" />
     <jar href="libs\commons-codec-1.9.jar" size="263965" download="eager" />
     <jar href="libs\commons-io-2.5.jar" size="208700" download="eager" />
     <jar href="libs\commons-lang3-3.5.jar" size="479881" download="eager" />

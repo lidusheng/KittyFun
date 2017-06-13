@@ -20,179 +20,179 @@
 		<mkdir dir="externalLibs" />
 	
 		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="fluent-hc-4.5.3.jar"/>
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="httpcore-4.4.6.jar"/>
 			</fileset>
 		</copy>
 		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="neko-htmlunit-2.25.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="cssparser-0.9.22.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="sac-1.3.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="jetty-util-9.4.3.v20170317.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="thumbelina.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="websocket-api-9.4.3.v20170317.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="commons-lang3-3.5.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
+			<fileset dir="D:\workspace\KittyFun\lib">
 				<filename name="jetty-io-9.4.3.v20170317.jar"/>
 			</fileset>
 		</copy>
 		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="xalan-2.7.2.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="htmlunit-2.26.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="htmlparser.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="httpclient-4.5.3.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="jna-platform-4.1.0.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="jna-4.1.0.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="jetty-client-9.4.3.v20170317.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="commons-logging-1.2.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="junit.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="xercesImpl-2.11.0.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="sax2.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="xml-apis-1.4.01.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="htmlunit-core-js-2.26.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="commons-io-2.5.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="httpmime-4.5.3.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="httpclient-win-4.5.3.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="serializer-2.7.2.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="htmllexer.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="websocket-client-9.4.3.v20170317.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="jetty-http-9.4.3.v20170317.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="websocket-common-9.4.3.v20170317.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="filterbuilder.jar"/>
-			</fileset>
-		</copy>
-		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
+			<fileset dir="D:\workspace\KittyFun\lib">
 				<filename name="commons-codec-1.9.jar"/>
 			</fileset>
 		</copy>
 		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="serializer-2.7.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="jna-platform-4.1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="httpclient-4.5.3.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="commons-lang3-3.5.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="htmlparser.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="cssparser-0.9.22.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="htmlunit-core-js-2.26.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
 				<filename name="httpclient-cache-4.5.3.jar"/>
 			</fileset>
 		</copy>
 		<copy todir="externalLibs">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun\lib">
-				<filename name="httpcore-4.4.6.jar"/>
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="fluent-hc-4.5.3.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="jetty-http-9.4.3.v20170317.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="httpclient-win-4.5.3.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="htmlunit-2.26.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="sac-1.3.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="htmllexer.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="commons-io-2.5.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="neko-htmlunit-2.25.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="jetty-client-9.4.3.v20170317.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="junit.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="xercesImpl-2.11.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="sax2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="xml-apis-1.4.01.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="commons-logging-1.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="filterbuilder.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="jna-4.1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="websocket-client-9.4.3.v20170317.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="websocket-api-9.4.3.v20170317.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="thumbelina.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="httpmime-4.5.3.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="xalan-2.7.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="jetty-util-9.4.3.v20170317.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="D:\workspace\KittyFun\lib">
+				<filename name="websocket-common-9.4.3.v20170317.jar"/>
 			</fileset>
 		</copy>
 	
 		<mkdir dir="project" />
 		<copy todir="project">
-			<fileset dir="C:\Users\LiDusheng\workspace\KittyFun">
+			<fileset dir="D:\workspace\KittyFun">
 				<include name="src/**" />
 			</fileset>
 		</copy>
