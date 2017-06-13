@@ -420,7 +420,7 @@ public class JavaFxDemo extends Application {
                 return string;
             }
         };
-        TableColumn invitedCol = new TableColumn<>();
+        TableColumn invitedCol = new TableColumn();
         invitedCol.setText("");
         invitedCol.setMinWidth(60);
         invitedCol.setCellValueFactory(new PropertyValueFactory("invited"));
