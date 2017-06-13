@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="KittyFun.jnlp">
+  <information>
+    <title>KittyFun</title>
+    <vendor>LiDusheng</vendor>
+    <description>KittyFun</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="KittyFun.jar" size="179541" download="eager" />
+    <jar href="libs\commons-codec-1.9.jar" size="263965" download="eager" />
+    <jar href="libs\commons-io-2.5.jar" size="208700" download="eager" />
+    <jar href="libs\commons-lang3-3.5.jar" size="479881" download="eager" />
+    <jar href="libs\commons-logging-1.2.jar" size="61829" download="eager" />
+    <jar href="libs\cssparser-0.9.22.jar" size="381496" download="eager" />
+    <jar href="libs\filterbuilder.jar" size="67095" download="eager" />
+    <jar href="libs\fluent-hc-4.5.3.jar" size="31148" download="eager" />
+    <jar href="libs\htmllexer.jar" size="70021" download="eager" />
+    <jar href="libs\htmlparser.jar" size="288098" download="eager" />
+    <jar href="libs\htmlunit-2.26.jar" size="1978644" download="eager" />
+    <jar href="libs\htmlunit-core-js-2.26.jar" size="1215224" download="eager" />
+    <jar href="libs\httpclient-4.5.3.jar" size="747794" download="eager" />
+    <jar href="libs\httpclient-cache-4.5.3.jar" size="159642" download="eager" />
+    <jar href="libs\httpclient-win-4.5.3.jar" size="17489" download="eager" />
+    <jar href="libs\httpcore-4.4.6.jar" size="323824" download="eager" />
+    <jar href="libs\httpmime-4.5.3.jar" size="41029" download="eager" />
+    <jar href="libs\jetty-client-9.4.3.v20170317.jar" size="265187" download="eager" />
+    <jar href="libs\jetty-http-9.4.3.v20170317.jar" size="163535" download="eager" />
+    <jar href="libs\jetty-io-9.4.3.v20170317.jar" size="130648" download="eager" />
+    <jar href="libs\jetty-util-9.4.3.v20170317.jar" size="453427" download="eager" />
+    <jar href="libs\jna-4.1.0.jar" size="914597" download="eager" />
+    <jar href="libs\jna-platform-4.1.0.jar" size="1464423" download="eager" />
+    <jar href="libs\junit.jar" size="121070" download="eager" />
+    <jar href="libs\neko-htmlunit-2.25.jar" size="129715" download="eager" />
+    <jar href="libs\sac-1.3.jar" size="15808" download="eager" />
+    <jar href="libs\sax2.jar" size="35979" download="eager" />
+    <jar href="libs\serializer-2.7.2.jar" size="276420" download="eager" />
+    <jar href="libs\thumbelina.jar" size="33277" download="eager" />
+    <jar href="libs\websocket-api-9.4.3.v20170317.jar" size="42130" download="eager" />
+    <jar href="libs\websocket-client-9.4.3.v20170317.jar" size="31720" download="eager" />
+    <jar href="libs\websocket-common-9.4.3.v20170317.jar" size="198728" download="eager" />
+    <jar href="libs\xalan-2.7.2.jar" size="3154938" download="eager" />
+    <jar href="libs\xercesImpl-2.11.0.jar" size="1367760" download="eager" />
+    <jar href="libs\xml-apis-1.4.01.jar" size="220536" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="300" height="200" main-class="net.ken.JavaFxDemo"  name="KittyFun" />
+  <update check="background"/>
+</jnlp>
